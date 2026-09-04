@@ -78,7 +78,7 @@ The project uses a customer-review dataset (`turtle_reviews.csv`) containing num
 ├── Solomon_Alfred_DA301_Assignment_Rscript.R
 │                              # R EDA and multiple linear regression
 ├── visualizations/            # Exported charts and model diagnostic plots
-├── Solomon_Alfred_DA301_Assignment_Report.docx
+├── Solomon_Alfred_DA301_Assignment_Report.pdf
 │                              # Written findings and recommendations
 └── README.md
 ```
