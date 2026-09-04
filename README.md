@@ -71,8 +71,8 @@ The project uses a customer-review dataset (`turtle_reviews.csv`) containing num
 ```text
 .
 ├── data/
-│   ├── turtle_reviews.csv       # Raw data (not committed if sensitive)
-│   └── clean_reviews.csv        # Generated cleaned analysis data
+│   ├── turtle_reviews.csv       # Raw data (The dataset is not included in this repository because of data-sharing restrictions. It is available on request for review purposes.
+│   └── clean_reviews.csv        # Generated cleaned analysis data (Available upon request due to data sharing restrictions)
 ├── Solomon_Alfred_DA301_Assignment_Notebook.ipynb
 │                              # Main Python analysis workflow
 ├── Solomon_Alfred_DA301_Assignment_Rscript.R
@@ -83,7 +83,7 @@ The project uses a customer-review dataset (`turtle_reviews.csv`) containing num
 └── README.md
 ```
 
-## Getting started
+## Getting started (Please request the data before running the analysis)
 
 1. Clone the repository.
 2. Place `turtle_reviews.csv` in `data/`.
